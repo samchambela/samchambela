@@ -27,7 +27,6 @@ Tenho 36 anos, sou de Minas Gerais mas moro em Curitiba/PR. Sou apaixonado por g
 <p align="left">
   <img src="https://media1.tenor.com/m/BSBOG8g4oHIAAAAd/cat-driving-cat.gif" width="150">
 </p>
-</br>
 
 ### 🖥️ Tecnologias e Ferramentas:
 
