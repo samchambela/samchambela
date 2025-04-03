@@ -10,7 +10,7 @@
 <div dsplay="inline-block">
 
  
- <h1 align="left">Samir Chambela</h1>
+ <h1 align="left">Samir Chambela (Maitt) </h1>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## Hello, Devs!!
 
-Tenho 36 anos, sou de Minas Gerais mas moro em Curitiba/PR. Sou apaixonado por games e arte. Estudante de programação Mobile iOS, fazendo amigos e me aventurando por esse mundão!
+Tenho 36 anos, sou de Minas Gerais mas moro em Curitiba/PR. Sou apaixonado por games e arte. Estudante de ADS, aprendendo Java, fazendo amigos e me aventurando por esse mundão!
 
 <p align="left">
   <img src="https://media1.tenor.com/m/BSBOG8g4oHIAAAAd/cat-driving-cat.gif" width="150">
@@ -31,6 +31,7 @@ Tenho 36 anos, sou de Minas Gerais mas moro em Curitiba/PR. Sou apaixonado por g
 ### 🖥️ Tecnologias e Ferramentas:
 
 </br>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn-icons-png.flaticon.com/256/5968/5968371.png" title = "SWIFT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
@@ -41,7 +42,8 @@ Tenho 36 anos, sou de Minas Gerais mas moro em Curitiba/PR. Sou apaixonado por g
 <div display="inline-block">
 
  <p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UniCesumar; </p>
- <p align="left">🍏 Aprendendo desenvolvimento Mobile com foco em Swift iOS; </p>
+ <p align="left">☕Aprendendo desenvolvimento em Java; </p>
+ <p align="left">🍏 Aprendendo desenvolvimento Mobile no Swift; </p>
  <p align="left">🎥 Criador de conteúdo de Pokémon e em breve PokéTech: <a href="https://beacons.ai/pokemaitt/">minhas redes aqui;</a></p>
  <p align="left">💻 Cria da <a href="https://www.alura.com.br/">Alura;</a></p>
  <p align="left">☕ Faço café bom e piada ruim.</p>
