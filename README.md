@@ -46,8 +46,7 @@ Tenho 37 anos, sou de Minas Gerais mas moro em Curitiba/PR. Sou apaixonado por g
  <p align="left">☕Aprendendo desenvolvimento em Java; </p>
  <p align="left">🍏 Aprendendo desenvolvimento Mobile no Swift; </p>
  <p align="left">🎥 Criador de conteúdo de Pokémon e em breve PokéTech: <a href="https://beacons.ai/pokemaitt/">minhas redes aqui;</a></p>
- <p align="left">💻 Cria da <a href="https://www.alura.com.br/">Alura;</a></p>
- <p align="left">💻 e da <a href="https://www.oracle.com/br/education/oracle-next-education/">Oracle;</a></p>
+ <p align="left">💻 Cria da <a href="https://www.alura.com.br/">Alura e da <a href="https://www.oracle.com/br/education/oracle-next-education/">Oracle;</a></p>
  <p align="left">☕ Faço café bom e piada ruim.</p>
 </div>
 
