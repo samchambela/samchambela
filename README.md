@@ -22,7 +22,7 @@
 
 ## Hello, Devs!!
 
-Tenho 36 anos, sou de Minas Gerais mas moro em Curitiba/PR. Sou apaixonado por games e arte. Estudante de ADS, aprendendo Java, fazendo amigos e me aventurando por esse mundão!
+Tenho 37 anos, sou de Minas Gerais mas moro em Curitiba/PR. Sou apaixonado por games e arte. Estudante de ADS, aprendendo Java, fazendo amigos e me aventurando por esse mundão!
 
 <p align="left">
   <img src="https://media1.tenor.com/m/BSBOG8g4oHIAAAAd/cat-driving-cat.gif" width="150">
