@@ -1,16 +1,15 @@
+<div>
+<a href="https://github.com/samchambela">
+<img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchambela&layout=compact&langs_count=7&theme=radical"/>
+</div>
+ 
+<img align="left" width="180px" src="https://github.com/user-attachments/assets/1ce1bbc0-ceaf-4b6e-b8e7-d7976f417141"/>
 
-<img align="left" width="150px" style="margin-top:-20px" src="https://github.com/user-attachments/assets/1ce1bbc0-ceaf-4b6e-b8e7-d7976f417141"/>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 <div dsplay="inline-block">
 
  
- <h1 align="left">Samir Chambela (Maitt) </h1>
+ <p align="left">Samir Chambela (Maitt) </p>
 
 </div>
 
@@ -20,23 +19,20 @@
 
 </br>
 
-## Hello, Devs!!
+Hello, Devs!!
 
 Tenho 37 anos, sou de Minas Gerais mas moro em Curitiba/PR. Sou apaixonado por games e arte. Estudante de ADS, aprendendo Java, fazendo amigos e me aventurando por esse mundão!
 
-<p align="left">
-  <img src="https://media1.tenor.com/m/BSBOG8g4oHIAAAAd/cat-driving-cat.gif" width="150">
-</p>
+</br>
 
 ### 🖥️ Tecnologias e Ferramentas:
 
-</br>
+<img align="right" style="margin-top:50px" src="https://media1.tenor.com/m/BSBOG8g4oHIAAAAd/cat-driving-cat.gif" width="150">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn-icons-png.flaticon.com/256/5968/5968371.png" title = "SWIFT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-
 
 </br>
 </br>
@@ -51,8 +47,4 @@ Tenho 37 anos, sou de Minas Gerais mas moro em Curitiba/PR. Sou apaixonado por g
 </div>
 
 
-##
-<div>
-<a href="https://github.com/samchambela">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchambela&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
