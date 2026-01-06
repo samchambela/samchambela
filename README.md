@@ -9,7 +9,7 @@
 <div dsplay="inline-block">
 
  
- <p align="left">Samir Chambela (Maitt) </p>
+ <p align="left">Samir Chambela (Sam) </p>
 
 </div>
 
