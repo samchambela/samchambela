@@ -13,7 +13,7 @@
 
 </div>
 
-<a href="https://www.instagram.com/pokemaitt" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.instagram.com/chambela.sam" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/samir-chambela" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 
@@ -41,7 +41,6 @@ Tenho 37 anos, sou de Minas Gerais mas moro em Curitiba/PR. Sou apaixonado por g
  <p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UniCesumar; </p>
  <p align="left">☕Aprendendo desenvolvimento em Java; </p>
  <p align="left">🍏 Aprendendo desenvolvimento Mobile no Swift; </p>
- <p align="left">🎥 Criador de conteúdo de Pokémon e em breve PokéTech: <a href="https://beacons.ai/pokemaitt/">minhas redes aqui</a>;</p>
  <p align="left">💻 Cria da <a href="https://www.alura.com.br/">Alura</a> e da <a href="https://www.oracle.com/br/education/oracle-next-education/">Oracle</a>;</p>
  <p align="left">☕ Faço café bom e piada ruim.</p>
 </div>
